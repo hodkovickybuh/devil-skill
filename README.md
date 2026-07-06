@@ -60,6 +60,8 @@ Your `memory/` files become personal the moment you use the skill. They stay on 
 /devil <your idea>              fast verdict, seconds
 /devil deep: <big decision>     3-agent adversarial panel for money,
                                 hiring, strategy, irreversible calls
+/devil review <finished work>   verdict on completed work, engine: /code-review
+/devil secure <target>          verdict on security posture, engine: /security-review
 /devil ledger                   audit its past predictions, see its hit rate
 ```
 
